@@ -1,0 +1,9 @@
+C:\Users\p c\source\repos\Hafta7Örnek2\Hafta7Örnek2\bin\Debug\Hafta7Örnek2.exe.config
+C:\Users\p c\source\repos\Hafta7Örnek2\Hafta7Örnek2\bin\Debug\Hafta7Örnek2.exe
+C:\Users\p c\source\repos\Hafta7Örnek2\Hafta7Örnek2\bin\Debug\Hafta7Örnek2.pdb
+C:\Users\p c\source\repos\Hafta7Örnek2\Hafta7Örnek2\obj\Debug\Hafta7Örnek2.Form1.resources
+C:\Users\p c\source\repos\Hafta7Örnek2\Hafta7Örnek2\obj\Debug\Hafta7Örnek2.Properties.Resources.resources
+C:\Users\p c\source\repos\Hafta7Örnek2\Hafta7Örnek2\obj\Debug\Hafta7Örnek2.csproj.GenerateResource.cache
+C:\Users\p c\source\repos\Hafta7Örnek2\Hafta7Örnek2\obj\Debug\Hafta7Örnek2.csproj.CoreCompileInputs.cache
+C:\Users\p c\source\repos\Hafta7Örnek2\Hafta7Örnek2\obj\Debug\Hafta7Örnek2.exe
+C:\Users\p c\source\repos\Hafta7Örnek2\Hafta7Örnek2\obj\Debug\Hafta7Örnek2.pdb
